@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "DLTV15",
+    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+  },
+  {
+    "name": "NBT",
+    "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8"
+  },
+  {
+    "name": "TPBS",
+    "url": "https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8"
+  },  
+  {
+    "name": "ALTV",
+    "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+  },
+  {
+    "name": "5HD",
+    "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+  },
+  {
+    "name": "Boomerang",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8"
+  },
+  {
+    "name": "Nation",
+    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
+  },        
+  {
+    "name": "Workpoint",
+    "url": "http://global-media.sooplive.com/live/workpoint/master.m3u8"
+  },
+  {
+    "name": "True24",
+    "url": "https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1764491291&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ObTxbez6Ux7y2_5DkOopDg"
+  },
+  {
+    "name": "GMM25",
+    "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8"
+  },  
+  {
+    "name": "TNN",
+    "url": "https://load1.v2h-cdn.com/RE_freetv/TNN24.stream_720p/playlist.m3u8"
+  },        
+  {
+    "name": "Boom Cartoon",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
+  },
+  {
+    "name": "Momo29 HD",
+    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
+  },
+   {
+    "name": "MONO 29",
+    "url": "https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8"
+  },
+  {
+    "name": "MCOT",
+    "url": "https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yMzA0Y2MzZGIzNDdkMWM0ZGQ1OANTc1NTlkNTA4ZWNmMmZj"
+  },
+  {
+    "name": "ONE",
+    "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
+  },        
+  {
+    "name": "Thairath",
+    "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8"
+  },
+  {
+    "name": "3HD",
+    "url": "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8"
+  },
+  {
+    "name": "Amarin",
+    "url": "https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1762126242&x_ark_path_prefix=%2Flive%2F&x_ark_signature=w5DSiQMIvBHzdEXQlyr7-w"
+  },
+  {
+    "name": "7HD",
+    "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8"
+  },        
+  {
+    "name": "PPTV",
+    "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1762300201&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=kN0mFnR0TkoSR83ZLiS-Kg"
+  },
+  {
+    "name": "ช่อง 8",
+    "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"
+  },       
+  {
+    "name": "JKN18",
+    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
+  },
+  {
+    "name": "CHANNEL 8",
+    "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+  },
+  {
+    "name": "T SPORT",
+    "url": "https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8"
+  },
+  {
+    "name": "TPTV",
+    "url": "https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org"
+  },
+  {
+    "name": "Vevo Country (Australia)",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
+  },
+  {
+    "name": "Wonder",
+    "url": "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "World of Freesports",
+    "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8"
+  },
+  {
+    "name": "Xplore",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8"
+  },
+  {
+    "name": "Zoomer TV",
+    "url": "https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8"
+  },
+  {
+    "name": "France 24",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8"
+  },
+  {
+    "name": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8"
+  },
+  {
+    "name": "NHK WORLD",
+    "url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+  },  
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+{
+    "name": "TAIWAN PLUS",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_2/chunklist.m3u8"
+  },
+{
+    "name": "WILD EARTH",
+    "url": "https://wildearth-plex.amagi.tv/masterR432p.m3u8"
+  },
+  {
+    "name": "3ABN International",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Kids",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Music Network",
+    "url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+  },
+{
+    "name": "Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "name": "We Love Cars",
+    "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "name": "ChopperTown",
+    "url": "https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8"
+  },
+  
+  {
+    "name": "Fishingᴴᴰ",
+    "url": "https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration"
+  },
+  {
+    "name": "DiscoverFilm",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Dove Channel",
+    "url": "https://dai.google.com/linear/hls/event/HYPAVeUNSiitRA7grlMeDw/master.m3u8"
+  },
+  {
+    "name": "FAIL ARMY",
+    "url": "https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Fashion Channel",
+    "url": "https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Fidotvᴴᴰ",
+    "url": "https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8"
+  },
+  
+  {
+    "name": "Fuel TV",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8"
+  },
+  
+  {
+    "name": "NATURE TIME",
+    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+  },
+   
+   {
+    "name": "Journy",
+    "url": "https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8"
+  },
+   {
+    "name": "Moviesphere(En)",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "Mr.Bean Anime",
+    "url": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8"
+  },
+   {
+    "name": "The Block",
+    "url": "https://i.mjh.nz/.r/the-block-247-fast.m3u8"
+  },
+   {
+    "name": "LMN",
+    "url": "https://i.mjh.nz/.r/lmn-fast.m3u8"
+  },
+   {
+    "name": "Married At First Sight",
+    "url": "https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8"
+  },
+   {
+    "name": "60 Minutes Australia",
+    "url": "https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8"
+  },
+   {
+    "name": "Drive",
+    "url": "https://i.mjh.nz/.r/drive-fast.m3u8"
+  },
+   {
+    "name": "Redbull TV",
+    "url": "https://i.mjh.nz/.r/redbull-tv.m3u8"
+  },
+      {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "EUROnews",
+    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+  },
+ {
+    "name": "&Flix",
+    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8"
+  },  
+  
+  {
+    "name": "ETV",
+    "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8"
+  },        
+  {
+    "name": "DLTV1",
+    "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+  },
+  {
+    "name": "DLTV2",
+    "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+  },
+  {
+    "name": "DLTV3",
+    "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+  },
+  {
+    "name": "DLTV4",
+    "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8"
+  },
+  {
+    "name": "DLTV5",
+    "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+  },
+  {
+    "name": "DLTV6",
+    "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8"
+  },
+  {
+    "name": "DLTV7",
+    "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8"
+  },
+  {
+    "name": "DLTV8",
+    "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8"
+  },
+  {
+    "name": "DLTV9",
+    "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8"
+  },
+  {
+    "name": "DLTV10",
+    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+  },
+  {
+    "name": "DLTV11",
+    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+  },
+  {
+    "name": "DLTV12",
+    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+  },
+  {
+    "name": "DLTV13",
+    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+  },
+  {
+    "name": "DLTV14",
+    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+  },
+  {
+    "name": "TPTV",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8"
+  },
+  {
+    "name": "IPTV-THAI",
+    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+  },
+  {
+    "name": "21 Jump Street Mv",
+    "url": "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8"
+  },
+  {
+    "name": "100% Docs",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+  },
+  {
+    "name": "ABN Freedom of Speech",
+    "url": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8"
+  },
+  {
+    "name": "Ace TV",
+    "url": "https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Action Hollywood",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "4 Afghanistan",
+    "url": "https://4afghls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "name": "4K Travel TV",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "5-Minute Craft",
+    "url": "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Al Riyadh Radio",
+    "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+  },
+  {
+    "name": "Alberto Sordi&Co",
+    "url": "https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Alex Berlin",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+  },
+  {
+    "name": "Alfred Hitchcock Presents",
+    "url": "https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8"
+  },
+   {
+    "name": "Amasia Mv",
+    "url": "https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Amazon Sat",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+  },
+   {
+    "name": "America's Boating Channel",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8"
+  },
+  {
+    "name": "American Ninja Warrior",
+    "url": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
+  },
+   {
+    "name": "Arab Heritage",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8"
+  },
+  {
+    "name": "Atrina_TV",
+    "url": "https://atrihls.wns.live/hls/stream.m3u8"
+  },
+   {
+    "name": "American_Pickers",
+    "url": "https://livetv-fa.tubi.video/american-pickers/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Drama_Italy",
+    "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Silent_Witness",
+    "url": "https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear",
+    "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Top_Gear_Finland",
+    "url": "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear_France",
+    "url": "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Top_Gear_Germany",
+    "url": "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear_Italy",
+    "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "Be_Mad",
+    "url": "http://176.65.146.237:8401/play/a0aj/index.m3u8"
+  },
+  {
+    "name": "Best_Action_TV",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8"
+  },
+   {
+    "name": "Best_Drama_TV",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8"
+  },
+  {
+    "name": "Drive_TV",
+    "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "E!_Keeping_Up",
+    "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "France_24_FAST_English",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "GenB_TV",
+    "url": "https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8"
+  },
+  {
+    "name": "Goal_TV",
+    "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+  },
+  {
+    "name": "Canada",
+    "url": "https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8"
+  },
+  
+  {
+    "name": "AMCEast",
+    "url": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_3/chunklist.m3u8"
+  },
+   {
+    "name": "MovieSphere",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/360p-vtt/index.m3u8"
+  },
+   {
+    "name": "Japanim TV",
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8"
+  },
+    {
+    "name": "BBC NewsUK",
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv5/b=437056/main.m3u8"
+  },
+   {
+    "name": "Hallmark us",
+    "url": "https://e4.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=6u5AuODNnwMVcT4wrZEb3g&expires=1758450888&user_id=MTU1LjExNy44NC4xNDQ="
+  },
+  {
+    "name": "Made In Hollywood",
+    "url": "https://connection3-ent-nz.samsung.wurl.tv/2000.m3u8"
+  },
+  {
+    "name": "Charge!",
+    "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index_1.m3u8"
+  },
+  {
+    "name": "MyTime Movie",
+    "url": "https://mytime-tcl.amagi.tv/480p-cc/index.m3u8"
+  },
+    {
+    "name": "Discover Film",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8"
+  },
+ {
+    "name": "Canal Motor",
+    "url": "https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8"
+  },
+    {
+    "name": "Travelxp",
+    "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8"
+  },
+  {
+    "name": "Go2Travel",
+    "url": "https://go2thls.wns.live/hls/stream.m3u8"
+  },
+    {
+    "name": "Brat TV",
+    "url": "https://brat-samsung-us.amagi.tv/360p-vtt/index.m3u8"
+  },
+   {
+    "name": "Kuriakos Kids",
+    "url": "https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w368881783_b1548000_sleng.m3u8"
+  },
+  {
+    "name": "Persiana Junior",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Zarok TV",
+    "url": "https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8"
+  },
+  {
+    "name": "TUTV",
+    "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/templeuni1/stream1/chunks.m3u8"
+  },
+  {
+    "name": "Comet",
+    "url": "https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8"
+  },
+  {
+    "name": "Circle",
+    "url": "https://circle-roku.amagi.tv/480p-cc/index.m3u8"
+  },
+  {
+    "name": "Young Hollywood",
+    "url": "https://younghollywood-rakuten-samsung.amagi.tv/360p-cc/index.m3u8"
+  },
+  {
+    "name": "NBCLX",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1_1.m3u8"
+  },
+  {
+    "name": "Timeline",
+    "url": "https://amg00426-littledotstudio-timelinenz-samsungnz-n06y3.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudio-timelinenz-samsungnz/cb553e1c786c678e9fd43d62d9ef41a7de243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c59e0a957f378bbdbe306f2c180680585ee2be5da5edf50c11dd6fa5e24e48887e45e1865fc8d54abb9d85099f119b77f713c992f7dfdb1381d0c301ef6d905cfab82007fbb451d1a169bedb93653892755a297437c790e335caa1e43d277debf6cac50a97c43a8b57e84e38b507d8678b3e8d29db617b2c4cd2cfe88e38261bb1d6527326adafc7e09e6662ef32abf0abb5770dfec9ec54320520f85b822e4e02b1dbbde35ffa97308cb5263f39ce964e9496884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15675e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9cf5824d4e640d23f38993b75b5f5e2b38d4ddfdc94f6dc58da3fff/101/640x360_1057680/index.m3u8"
+  },
+    {
+    "name": "FailArmy",
+    "url": "https://failarmy-international-in.samsung.wurl.tv/2000.m3u8"
+  },
+  {
+    "name": "Persiana Comedy",
+    "url": "https://comedyhls.persiana.live/hls/stream.m3u8"
+  },
+  {
+    "name": "In the Kitchen",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/med.m3u8"
+  },
+  {
+    "name": "Gusto TV",
+    "url": "https://amg01077-gustoworldwidem-gustotvnz-samsungnz-3fu5q.amagi.tv/ts-eu-w1-n2/playlist/amg01077-gustoworldwidem-gustotvnz-samsungnz/cb553e1c786c678e9fd43d62d9ef41a7de243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55f44dc3da7e74e1b887e45e1845fc8d54abb9ddd0a9c169b72f710c997f28a8715d385c401ef6d905cfab82007fbb451d1a169bedb93653892755a297437c790e335caa1e43d277debf6cac50a97c43a8b57e84e38b507d8678b3e8d29db617b2c4cd2cfe88e38261bb1d6527326adafc7e09e6662ef32abf0abb5770dfec9ec54320520f85b822e4e02b1dbbde35ffa97308cb5263f39ce964e9496884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15675e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9ce51206567cef379015911709339b897a504ea271ac85eae39a4/84/640x360_1057680/index.m3u8"
+  },
+  {
+    "name": "bon appetit",
+    "url": "https://bonappetit-samsung.amagi.tv/360p-vtt/index.m3u8"
+  },
+    {
+    "name": "Tastemade",
+    "url": "https://amg00047-tastemade-tmintlaus-samsungnz-wve9z.amagi.tv/ts-eu-w1-n2/playlist/amg00047-tastemade-tmintlaus-samsungnz/cb553e1c786c678e9fd43d62d9ef41a7de243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c59e0a957f378bbdbe306f2c180680585ee2be5da5edf509468e64a4e54a4a887e45e1845fc8d54abb9ddd53ca169b25f7409e9ba68ad4118bd4c001ef6d905cfab82007fbb451d1a169bedb93653892755a297437c790e335caa1e43d277debf6cac50a97c43a8b57e84e38b507d8678b3e8d29db617b2c4cd2cfe88e38261bb1d6527326adafc7e09e6662ef32abf0abb5770dfec9ec54320520f85b822e4e02b1dbbde35ffa97308cb5263f39ce964e9496884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15675e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9cf5824d4e640f64638993b8597e99d6080fe2f22c161f2cbb53822/101/640x360_1020800/index.m3u8"
+  },
+  {
+    "name": "California Music",
+    "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/640x360_1205600/index.m3u8"
+  },
+  {
+    "name": "30A Music",
+    "url": "https://30a-tv.com/feeds/720p/6.m3u8"
+  },
+  {
+    "name": "Balle Balle In",
+    "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Afrobeat",
+    "url": "https://stream.ecable.tv/afrobeats/tracks-v4a1/mono.m3u8"
+  },
+  {
+    "name": "The Pet Collective",
+    "url": "https://the-pet-collective-international-nl.samsung.wurl.tv/1200.m3u8"
+  },
+  {
+    "name": "CNN Us",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8"
+  },
+  {
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8"
+  },
+    {
+    "name": "Al Jazeera",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+  }, 
+  {
+    "name": "CineLife",
+    "url": "https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb553e1c786c678e9fd43d62d9ef41a7de243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55d10896ff4b41a48887e45e1d35fc8d54abb9ddd59cd169b20a411cc96f4d9811185879101ef6d905cfab82007fbb451d1a169bedb93653892755a297437c790e335caa1e43d277debf6cac50a97c43a8b57e84e38b507d8678b3e8d29db617b2c4cd2cfe88e38261bb1d6527326adafc7e09e6662ef32abf0abb5770dfec9ec54320520f85b822e4e02b1dbbde35ffa97308cb5263f39ce964e9496884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15675e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9ce50279d67c14c200ca0fb3c665f91b175056e6c0ba903dc6ca94f5c/93/848x480_849028/index.m3u8"
+  },
+  {
+    "name": "Fashion Finds",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/medlow.m3u8"
+  },
+    {
+    "name": "HANDICAP FR",
+    "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+  },
+  {
+    "name": "Taiwan Plus",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+  },
+  {
+    "name": "WionNews",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+  },
+  {
+    "name": "2025年春晚",
+    "url": "https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8"
+  },
+    {
+    "name": "ภาพยนต์เกาหลี1",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"
+  },
+   {
+    "name": "หนังเกาหลี2",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
+  },
+     {
+    "name": "กวงหยวน",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8"
+  },
+   {
+    "name": "1广元公共",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8"
+  },
+  {
+    "name": "2石棉综合",
+    "url": "rtmp://tv.yunxya.com:1937/channellive/shimian"
+  },
+  {
+    "name": "Arirang",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8"
+  },
+  {
+    "name": "Euro News",
+    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+  },
+  {
+    "name": "CBS NEWS 24/7",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+  },
+  {
+    "name": "TVK ขแมร์",
+    "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+  },
+  {
+    "name": "Dak Nong TV",
+    "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8"
+  },
+  {
+    "name": "VOA/RFA News",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8"
+  },
+   {
+    "name": "Zhejiang Minsheng",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+  },
+   {
+      "name": "gochannel",
+    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+  },
+  {
+    "name": "MOUNCHON TV",
+    "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8"
+  },
+  {
+    "name": "PBS ****",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+  },
+  {
+    "name": "REAL WILD",
+    "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "RED BULL TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+  },
+  {
+    "name": "Siam news TV",
+    "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
+  },
+  {
+    "name": "SUWANNABHUMI TV",
+    "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8"
+  },
+  {
+    "name": "TOP News",
+    "url": "https://live.topnews.co.th/hls/topnews_a_360.m3u8"
+  },
+  {
+    "name": "MVTV ท้องถิ่นไทย (75)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8"
+  },
+  {
+    "name": "Thai Nguyen TV",
+    "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+  },
+  {
+    "name": "Raweuters",
+    "url": "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+  },
+  {
+    "name": "CCTV+1",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+  },
+   {
+    "name": "The First TV",
+    "url": "https://thefirst-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Florida Channel",
+    "url": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8"
+  },
+  {
+    "name": "The Grappling Network)",
+    "url": "https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8"
+  },
+  {
+    "name": "Toonami Aftermath Movies",
+    "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"
+  },
+  {
+    "name": "Toonami Aftermath East",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
+  },
+  {
+    "name": "Top Sci-Fi",
+    "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
+  },
+  {
+    "name": "Top Serien",
+    "url": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
+  },
+  {
+    "name": "True History Channel",
+    "url": "https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "True Lives",
+    "url": "https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "Universal Westerns",
+    "url": "https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Vevo Pop Spain",
+    "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vevo Pop",
+    "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vevo Pop2",
+    "url": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"
+  },
+  {
+    "name": "We TV",
+    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8"
+  },
+  {
+    "name": "West Hollywood",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+  },
+  {
+    "name": "Women's Sports Network",
+    "url": "https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8"
+  },
+  {
+    "name": "World of Freesports",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "World of Love Island",
+    "url": "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "World Fishing Network",
+    "url": "http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8"
+  },
+  {
+    "name": "Sci-Fi World",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
+  },
+  {
+    "name": "Zhejiang Education",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+  },
+  {
+    "name": "Zhejiang Minsheng",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+  },
+  {
+    "name": "เจ้อเจียง เฉียนเจียง",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+  },
+  {
+    "name": "ฝูโจว-2 TV",
+    "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8"
+  },
+  {
+    "name": "FZTV-3)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8"
+  },
+  {
+    "name": "MVLAO",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
+  },
+  {
+    "name": "MVM",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8"
+  },
+  {
+    "name": "ไทบ้านทีวี",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
+  },
+  {
+    "name": "Thai Chaiyo",
+    "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"
+  },
+  {
+    "name": "MVMall Family (40)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8"
+  },
+  {
+    "name": "MVMall Trend",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8"
+  },
+  {
+    "name": "MVMall Plus (51)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8"
+  },
+  {
+    "name": "MVMall Healthy (58)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8"
+  },
+  {
+    "name": "MVMall DD (59)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
+  },
+  {
+    "name": "MVMall Living (26)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
+  },
+   {
+        "name": "Persiana Junior",
+        "url": "https://junhls.persiana.live/hls/stream.m3u8"
+      },
+      {
+        "name": "Zarok TV",
+        "url": "https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8"
+      },
+      {
+        "name": "TUTV",
+        "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e411/playlist.m3u8"
+      },
+      {
+        "name": "Arirang TV",
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+      },
+      {
+        "name": "BabyFirst",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
+      },
+  {
+        "name": "Persiana Korea",
+        "url": "https://korhls.persiana.live/hls/stream.m3u8"
+      },
+   {
+        "name": "WBC TV1080p",
+        "url": "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
+      },
+  {
+        "name": "MBC Yeosu1080p",
+        "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+      },
+  {
+        "name": "Beautiful Life cn",
+        "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+      },
+  {
+        "name": "NTD TV",
+        "url": "https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8"
+      },
+    {
+        "name": "FOX 6",
+        "url": "https://livetv-fa.tubi.video/witi/index.m3u8"
+      },
+     {
+        "name": "CBS",
+        "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+      },
+    {
+        "name": "Scientology",
+        "url": "https://stream6.scientology.org/master.m3u8"
+      },
+  {
+        "name": "Scientology TV",
+        "url": "https://stream6.scientology.org/stream/hls_1280x720_4500k.m3u8"
+      },
+  {
+        "name": "Arirang TV",
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+      },
+  {
+        "name": "Rig TV",
+        "url": "https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8"
+      },
+  {
+        "name": "Red Bull",
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8"
+      },
+    {
+        "name": "Outside tvᴴᴰ",
+        "url": "https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8"
+      },
+  {
+        "name": "Outdoor",
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+      },
+  {
+        "name": "Outdoor America",
+        "url": "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
+      },
+    {
+        "name": "ONE PLANET",
+        "url": "http://95.67.12.82:9088"
+      },
+  {
+        "name": "NHK World",
+        "url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+      },
+  {
+        "name": "Logos TV Kids",
+        "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+      },
+  {
+        "name": "NBS 农业广播",
+        "url": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8"
+      },
+  {
+        "name": "Nautical(720p)",
+        "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
+      },
+  {
+        "name": "Naturetime(Au)",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
+      },
+  {
+        "name": "Top Sci-Fi",
+        "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
+      },
+  {
+        "name": "Red Bull TV (1080p)",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+      },
+  {
+        "name": "ขแมร์TV",
+        "url": "https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8"
+      },
+  {
+    "name": "WWON TV",
+    "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
+  },
+      {
+        "name": "Vevo Country",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8" 
+      } 
+
+]
