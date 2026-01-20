@@ -996,6 +996,140 @@
       {
         "name": "Vevo Country",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8" 
-      } 
-
+      } ,
+{
+    "name": "3HD",
+    "tvg_id": "3HD.th@SD",
+    "tvg_logo": "https://i.imgur.com/YRiulCU.png",
+    "group_title": "General",
+    "url": "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8"
+  },
+  {
+    "name": "Channel 5 (1080p)",
+    "tvg_id": "Channel5.th@SD",
+    "tvg_logo": "https://i.imgur.com/wOIaqg7.png",
+    "group_title": "General",
+    "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+  },
+  {
+    "name": "CH7 HD (1080p)",
+    "tvg_id": "Channel7.th",
+    "tvg_logo": "https://i.imgur.com/IDMQ2xe.png",
+    "group_title": "General",
+    "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8"
+  },
+  {
+    "name": "MCOT HD",
+    "tvg_id": "MCOTHD.th@SD",
+    "tvg_logo": "https://i.imgur.com/ejPxGmU.png",
+    "group_title": "General",
+    "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+  },
+  {
+    "name": "NBT HD",
+    "tvg_id": "NBT2.th",
+    "tvg_name": "NBT HD",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NBT_2025.svg",
+    "group_title": "General",
+    "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+  },
+  {
+    "name": "THAI PBS HD",
+    "tvg_id": "ThaiPBS3.th",
+    "tvg_name": "THAI PBS HD",
+    "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg",
+    "group_title": "General",
+    "url": "https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8"
+  },
+  {
+    "name": "Boomerang Thai",
+    "tvg_id": "Boomerang.th",
+    "tvg_name": "Boomerang Thai",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",
+    "group_title": "Kids",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8"
+  },
+  {
+    "name": "TPTV",
+    "tvg_id": "TPTV.th",
+    "tvg_name": "TPTV",
+    "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png",
+    "group_title": "General",
+    "url": "https://tv-live.tpchannel.org/live/tv_360p.m3u8"
+  },
+  {
+    "name": "BOOM ANIME",
+    "tvg_id": "BOOMAnime.th",
+    "tvg_logo": "https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",
+    "group_title": "Animation",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
+  },
+  {
+    "name": "Thai Chaiyo",
+    "tvg_id": "ThaiChaiyo.th",
+    "tvg_logo": "https://i.imgur.com/uOfb3y1.png",
+    "group_title": "Music",
+    "url": "https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8"
+  },
+  {
+    "name": "Channel 8",
+    "tvg_id": "Channel8.th",
+    "tvg_logo": "https://i.imgur.com/WypvBZ7.jpg",
+    "group_title": "Movies",
+    "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8"
+  },
+  {
+    "name": "Nation TV",
+    "tvg_id": "NationTV.th",
+    "tvg_name": "Nation TV",
+    "tvg_logo": "https://i.imgur.com/h3TY38F.png",
+    "group_title": "News",
+    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
+  },
+  {
+    "name": "Workpoint TV",
+    "tvg_id": "Workpoint23.th",
+    "tvg_name": "Workpoint TV",
+    "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg",
+    "group_title": "Entertainment",
+    "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8"
+  },
+  {
+    "name": "True 4U",
+    "tvg_id": "True4U.th",
+    "tvg_name": "True 4U",
+    "tvg_logo": "https://i.imgur.com/O6Xre1O.png",
+    "group_title": "Entertainment",
+    "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u"
+  },
+  {
+    "name": "GMM 25",
+    "tvg_id": "GMM25.th",
+    "tvg_name": "GMM 25",
+    "tvg_logo": "https://i.imgur.com/uARba6N.png",
+    "group_title": "General",
+    "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8"
+  },
+  {
+    "name": "MONO 29 (1080p)",
+    "tvg_id": "MONO29.th",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+    "group_title": "Entertainment",
+    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
+  },
+  {
+    "name": "ONE HD",
+    "tvg_id": "One31.th",
+    "tvg_name": "ONE HD",
+    "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png",
+    "group_title": "General",
+    "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
+  },
+  {
+    "name": "Top News",
+    "tvg_id": "TopNews.th",
+    "tvg_logo": "https://i.imgur.com/tRFnV9M.png",
+    "group_title": "News",
+    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
+  }
 ]
