@@ -1,5 +1,4 @@
-{
-  "channels": [
+ [
     {
       "name": "3HD",
       "tvg_id": "3HD.th@SD",
@@ -414,4 +413,4 @@
       "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8"
     }
   ]
-}
+
