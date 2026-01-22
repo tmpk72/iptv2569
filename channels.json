@@ -64,67 +64,187 @@
       "url": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "ANIME_HIDIVE",
+      "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "Stories by AMC",
+      "url": "https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "MovieSphere",
+      "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MovieSphere by Lionsgate",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e"
+    },
+    {
+      "name": "MyTime Movie Network",
+      "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MyTime Movie Network Brazil (720p)",
+      "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MyTime Movie Network France (1080p)",
+      "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MyTime Movie Network Germany (1080p)",
+      "url": "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Oscar Movies Bhojpuri (720p)",
+      "url": "https://cdn-4.pishow.tv/live/233/master.m3u8"
+    },
+    {
+      "name": "Pluto TV Action Movies",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96"
+    },
+    {
+      "name": "Pluto TV Comedy Movies",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3d24b8e02600071fa296/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac25957-ab7a-4358-b0cd-9e596b2f1a6f"
+    },
+    {
+      "name": "Pluto TV Crime Movies",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b"
+    },
+    {
+      "name": "Pluto TV Drama Movies",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb0bcd707b9000739d2e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d28-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac9b4aeb-508c-4396-8b31-dc70fc73c3ce"
+    },
+    {
+      "name": "Pluto TV Movies",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286"
+    },
+    {
+      "name": "Rakuten Top Movies UK",
+      "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Action Movies UK",
+      "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Drama Movies UK",
+      "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Romance Movies UK",
+      "url": "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+    },
+    {
+      "name": "Rakuten TV Top Movies Finland",
+      "url": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
+    },
+    {
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
       "url": ""
     },
     {
-      "name": "24 Hour Free Movies",
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
+      "url": ""
+    },
+    {
+      "name": "UK",
       "url": ""
     },
     
