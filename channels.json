@@ -285,18 +285,18 @@
     },
     {
       "name": "Love Nature 4K",
-      "url": "https://jmp2.uk/stvp-USBA3400003IP"
+      "url": "https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/playlist.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=600378AB-319C-4603-AA65-DD647279C634&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=600378AB-319C-4603-AA65-DD647279C634&ads.n4=content_name&ads.v4=EPG%20%7C%20Love%20Nature%20Channel&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=ip&ads.v22=86.48.9.131&ads.n23=ifa_type&ads.v23=&ads.n24=app_store_url&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=app_bundle&ads.v26=&ads.n27=app_name&ads.v27=&ads.n28=channel_company_id&ads.v28=AMDP500130&ads.n29=channel_brand_id&ads.v29=AMDB012071&ads.n30=gpp&ads.v30=&ads.n31=did&ads.v31=&ads.n32=channel_corp&ads.v32=Blue%20Skye%20Entertainment%20%28US%29%20LLC&ads.n33=content_livestream&ads.v33=1&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=h&ads.v35=1080&ads.n36=channel_title&ads.v36=EPG%20%20Love%20Nature%20Channel&ads.n37=pos&ads.v37=midroll&ads.n38=channel_id&ads.v38=600378AB-319C-4603-AA65-DD647279C634&ads.n39=channel_name&ads.v39=EPG%20%20Love%20Nature%20Channel&ads.n40=channel_ext_id&ads.v40=6092e184397ff5396c279cc3&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=device_model&ads.v42=&ads.n43=channel_genre&ads.v43=Nature&ads.n44=content_type&ads.v44=channel&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=content_custom_1_param&ads.v46=600378AB-319C-4603-AA65-DD647279C634&ads.n47=dnt&ads.v47=&ads.n48=network_name&ads.v48=love-nature-channel&ads.n49=gpp_sid&ads.v49=&ads.n50=device_type&ads.v50=&ads.n51=content_custom_3_param&ads.v51=channel&ads.n52=content_provider&ads.v52=love-nature-channel&ads.n53=device_make&ads.v53=&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=w&ads.v55=1920&ads.n56=channel_language&ads.v56=en&ads.n57=content_custom_2_param&ads.v57=AMDB012071&ads.n58=content_producer_name&ads.v58=Blue%20Skye%20Entertainment%20%28US%29%20LLC"
     },        
     {
-      "name": "UK",
-      "url": ""
+      "name": "XITE Hits",
+      "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3300004RH"
     },
     {
-      "name": "UK",
-      "url": ""
+      "name": "HBO 2 Eastern Feed",
+      "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=72ZesiviZVR7WmcyjUEHEg&expires=1769077759&user_id=MjIzLjIwNS4yMzMuMjQ2"
     },
     {
-      "name": "UK",
+      "name": "HBO Eastern Feed",
       "url": ""
     },
     {
