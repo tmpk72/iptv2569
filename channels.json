@@ -168,8 +168,8 @@
       "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
     },
     {
-      "name": "Thai PBS",
-      "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+      "name": "00s Replay",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be"
     },
     {
       "name": "CCTV-4N",
@@ -210,6 +210,34 @@
     {
       "name": "ฝูโจว(FZTV-Children)",
       "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
+    },
+    {
+      "name": "Arirang TV",
+      "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+      "name": "Korea TV",
+      "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+    },
+    {
+      "name": "KCTV Not 24/7]",
+      "url": "https://tv.intchoson.com/kctv/index.m3u8"
+    },
+    {
+      "name": "Persiana Korea",
+      "url": "https://korhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "name": "NHK BS",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11"
+    },
+    {
+      "name": "NHK World-Japan HD",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8"
+    },
+    {
+      "name": "VIVA Russia",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
     },
     
     {
