@@ -16,6 +16,102 @@
       "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8?ads.channel_name=ACI+On+The+Go&ads.content_id=SAC100&ads.coppa=0&ads.provider=ACI&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=139145&ads.show_id=5298&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAction%2FAdventure%2CDrama%2CMystery%2CRomance%2CMovies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=ACI%20On%20The%20Go&ads.episodetitle=ACI%20On%20The%20Go&ads.keywords=Action%2CDrama%2CMystery%2CRomance%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
     },
     {
+      "name": "Amplified Voices TV",
+      "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0NEDHNB14204IE5V6CIX/hls3/now,-1m/m.m3u8?ads.channel_name=Amplified+Voices&ads.content_id=SWM100&ads.coppa=0&ads.provider=Wonder+Media&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=140609&ads.show_id=5338&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBusiness%2CEducation%2CFamily%2FChildren%2CLifestyle%2CNews%2CPop%20Culture%2CTalk%20Show%2CMovies%2CEnglish%2CAfrican&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Amplified%20Voices%20TV&ads.episodetitle=Amplified%20Voices%20TV&ads.keywords=Business%2CCelebrity%2CEducation%2CEntertainment%2CFamily%2CHealth%2CHistory%2CLifestyle%2CNews%2CPop%20Culture%2CTalk%20Show%2CAfrican%20American%2CBlack%20Cinema%2CIndependent%20Movies%2CUrban&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Arré",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22982&ads.content_duration=18000&ads.episode_id=64138&ads.show_id=2195&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CReality%20TV%2CDrama%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Arr%C3%A9&ads.episodetitle=Arr%C3%A9&ads.keywords=ARRE%2CIndian%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Bollywood-Classic-OTT",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CClassic%20Movies%2CBollywood%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Bollywood-HD-OTT",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Discovering China",
+      "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8?ads.app_domain=__APP_DOMAIN__&ads.app_name=__APP_NAME__&ads.app_store_url=__STORE_URL__&ads.coppa=0&ads.dnt=__LIMIT_AD_TRACKING__&ads.c_producer=CGTN&ads.device_model=&ads.did=__DEVICE_ID__&ads.ifa_type=__DEVICE_ID_TYPE__&ads.url=__PAGEURL_ESC__&ads.content_livestream=1&ads.ic=IAB20&ads.iu=&ads.idtype=__DEVICE__&ads.lmt=__LIMIT_AD_TRACKING__&ads.gpp=&ads.gpp_sid=&ads.prodq=0&ads.inv_partner_domain=http%3A%2F%2Fdistro.tv&ads.schain=1&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "DroneTV",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23176&ads.content_duration=18000&ads.episode_id=129395&ads.show_id=5143&ads.showCategories=IAB20&ads.episodeCategories=IAB1&ads.genre=Travel%2CNature%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=DroneTV&ads.episodetitle=DroneTV&ads.keywords=drones%2Cdrone%20videos%2Cfirst%20person%20view%20drones%2Cfpv%2Cfpv%20drones%2Caerial%20cinematography%2Ctravel%20by%20drone&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },    
+    {
+      "name": "Journy",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22944&ads.content_duration=18000&ads.episode_id=76607&ads.show_id=2959&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CFood%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Journy&ads.episodetitle=Journy&ads.keywords=Journy%2CTravel%2CFood&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=oviation&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Entertainment_CN",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=121809&ads.show_id=4957&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CAction%2FAdventure%2CLifestyle%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=zh&ads.showtitle=Mediacorp%20Entertainment%20%E2%80%93%20Chinese&ads.episodetitle=Mediacorp%20Entertainment%20%E2%80%93%20Chinese&ads.keywords=Entertainment%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },    
+    {
+      "name": "Entertainment_EN",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=121810&ads.show_id=4958&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CAction%2FAdventure%2CLifestyle%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Mediacorp%20Entertainment%20%E2%80%93%20English&ads.episodetitle=Mediacorp%20Entertainment%20%E2%80%93%20English&ads.keywords=Entertainment%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209"
+    },
+    {
+      "name": "Bref Cinema (EU)",
+      "url": "https://lagenceducourtmetrage-brefcinema-01-eu.xiaomi.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "MovieDome Family",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8"
+    },
+    {
+      "name": "Rakuten Viki (EU)",
+      "url": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
+      "name": "24 Hour Free Movies",
+      "url": ""
+    },
+    {
       "name": "24 Hour Free Movies",
       "url": ""
     },
