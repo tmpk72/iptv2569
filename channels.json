@@ -285,7 +285,7 @@
     },
     {
       "name": "Love Nature 4K",
-      "url": "https://s5host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/playlist.m3u8?ads.cdnhost=s5host2.localnow.api.cms.amdvids.com&ads.playbackid=600378AB-319C-4603-AA65-DD647279C634&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=600378AB-319C-4603-AA65-DD647279C634&ads.n4=content_name&ads.v4=EPG%20%7C%20Love%20Nature%20Channel&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=ip&ads.v22=86.48.9.131&ads.n23=ifa_type&ads.v23=&ads.n24=app_store_url&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=app_bundle&ads.v26=&ads.n27=app_name&ads.v27=&ads.n28=channel_company_id&ads.v28=AMDP500130&ads.n29=channel_brand_id&ads.v29=AMDB012071&ads.n30=gpp&ads.v30=&ads.n31=did&ads.v31=&ads.n32=channel_corp&ads.v32=Blue%20Skye%20Entertainment%20%28US%29%20LLC&ads.n33=content_livestream&ads.v33=1&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=h&ads.v35=1080&ads.n36=channel_title&ads.v36=EPG%20%20Love%20Nature%20Channel&ads.n37=pos&ads.v37=midroll&ads.n38=channel_id&ads.v38=600378AB-319C-4603-AA65-DD647279C634&ads.n39=channel_name&ads.v39=EPG%20%20Love%20Nature%20Channel&ads.n40=channel_ext_id&ads.v40=6092e184397ff5396c279cc3&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=device_model&ads.v42=&ads.n43=channel_genre&ads.v43=Nature&ads.n44=content_type&ads.v44=channel&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=content_custom_1_param&ads.v46=600378AB-319C-4603-AA65-DD647279C634&ads.n47=dnt&ads.v47=&ads.n48=network_name&ads.v48=love-nature-channel&ads.n49=gpp_sid&ads.v49=&ads.n50=device_type&ads.v50=&ads.n51=content_custom_3_param&ads.v51=channel&ads.n52=content_provider&ads.v52=love-nature-channel&ads.n53=device_make&ads.v53=&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=w&ads.v55=1920&ads.n56=channel_language&ads.v56=en&ads.n57=content_custom_2_param&ads.v57=AMDB012071&ads.n58=content_producer_name&ads.v58=Blue%20Skye%20Entertainment%20%28US%29%20LLC"
+      "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8"
     },        
     {
       "name": "XITE Hits",
@@ -296,22 +296,55 @@
       "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=72ZesiviZVR7WmcyjUEHEg&expires=1769077759&user_id=MjIzLjIwNS4yMzMuMjQ2"
     },
     {
-      "name": "HBO Eastern Feed",
-      "url": ""
+      "name": "Free Movies Plus",
+      "url": "https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/e1074d51-e146-4054-af60-8179449c237c/36-90-1020.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n4=content_name&ads.v4=Free%20Movies%20Plus&ads.n21=channel_corp&ads.v21=OTT%20Studio%20LLC.&ads.n22=device_make&ads.v22=&ads.n23=url&ads.v23=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n24=channel_id&ads.v24=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n25=content_custom_3_param&ads.v25=channel&ads.n26=content_producer_name&ads.v26=OTT%20Studio%20LLC.&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=channel_genre&ads.v28=Entertainment&ads.n29=h&ads.v29=1080&ads.n30=content_custom_2_param&ads.v30=AMDB013395&ads.n31=us_privacy&ads.v31=1YNY&ads.n32=did&ads.v32=&ads.n33=gpp_sid&ads.v33=&ads.n34=device_model&ads.v34=&ads.n35=device_type&ads.v35=&ads.n36=app_bundle&ads.v36=&ads.n37=channel_rating&ads.v37=TV-PG&ads.n38=w&ads.v38=1920&ads.n39=channel_title&ads.v39=Free%20Movies%20Plus&ads.n40=channel_company_id&ads.v40=AMDP500517&ads.n41=channel_brand_id&ads.v41=AMDB013395&ads.n42=app_version&ads.v42=0.0.0&ads.n43=channel_name&ads.v43=Free%20Movies%20Plus&ads.n44=dnt&ads.v44=&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=pos&ads.v46=midroll&ads.n47=gpp&ads.v47=&ads.n48=channel_language&ads.v48=en&ads.n49=network_name&ads.v49=free-movies-plus&ads.n50=content_type&ads.v50=channel&ads.n51=app_name&ads.v51=&ads.n52=content_custom_1_param&ads.v52=6D30170C-D7B3-46A2-8C1F-302D8399F44D&ads.n53=ifa_type&ads.v53=&ads.n54=channel_ext_id&ads.v54=&ads.n55=content_provider&ads.v55=free-movies-plus&ads.n56=ip&ads.v56=86.48.9.131&ads.n57=content_livestream&ads.v57=1&ads.n58=app_store_url&ads.v58="
     },
     {
+      "name": "Pure Flix TV",
+      "url": "https://s10host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host5.localnow.api.cms.amdvids.com&ads.playbackid=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n4=content_name&ads.v4=Pure%20Flix%20TV&ads.n21=channel_language&ads.v21=en&ads.n22=channel_name&ads.v22=Pure%20Flix%20TV&ads.n23=content_type&ads.v23=channel&ads.n24=gpp_sid&ads.v24=&ads.n25=content_producer_name&ads.v25=GAC%20Media%20LLC&ads.n26=device_model&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=device_make&ads.v28=&ads.n29=content_custom_1_param&ads.v29=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n30=app_bundle&ads.v30=&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=did&ads.v32=&ads.n33=channel_rating&ads.v33=TV-PG&ads.n34=app_version&ads.v34=0.0.0&ads.n35=app_store_url&ads.v35=&ads.n36=pos&ads.v36=midroll&ads.n37=dnt&ads.v37=&ads.n38=w&ads.v38=1920&ads.n39=network_name&ads.v39=pure-flix-tv&ads.n40=channel_ext_id&ads.v40=&ads.n41=ip&ads.v41=86.48.9.131&ads.n42=channel_genre&ads.v42=Family%20and%20Faith&ads.n43=content_custom_2_param&ads.v43=AMDB013674&ads.n44=channel_company_id&ads.v44=AMDP500566&ads.n45=h&ads.v45=1080&ads.n46=channel_brand_id&ads.v46=AMDB013674&ads.n47=channel_id&ads.v47=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n48=device_type&ads.v48=&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=ifa_type&ads.v50=&ads.n51=gpp&ads.v51=&ads.n52=content_custom_3_param&ads.v52=channel&ads.n53=content_provider&ads.v53=pure-flix-tv&ads.n54=channel_title&ads.v54=Pure%20Flix%20TV&ads.n55=app_name&ads.v55=&ads.n56=channel_corp&ads.v56=GAC%20Media%20LLC&ads.n57=content_livestream&ads.v57=1&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36"
+    },
+    {
+      "name": "MovieDome",
+      "url": "https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "MovieDome Family",
+      "url": "https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "Movies 4 Free",
+      "url": "https://movies4free-lg.amagi.tv/playlist.m3u8"
+    },{
+      "name": "Mytime Movie Network (AU)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient-lgau/playlist.m3u8"
+    },{
+      "name": "Mytime Movie Network (US)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8"
+    },{
+      "name": "Sparkle Movies (GB)",
+      "url": "https://candlelightmedia-sparklemovies-1-gb.lg.wurl.tv/playlist.m3u8"
+    },{
+      "name": "Watch4Movies",
+      "url": "https://watch4movies-lg.amagi.tv/playlist.m3u8"
+    },{
+      "name": "Filmzie (GB)",
+      "url": "https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8"
+    },{
+      "name": "Infast (GB)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-lggb/playlist.m3u8"
+    },{
+      "name": "UK",
+      "url": ""
+    },{
+      "name": "UK",
+      "url": ""
+    },{
+      "name": "UK",
+      "url": ""
+    },{
       "name": "UK",
       "url": ""
     },
-    {
-      "name": "UK",
-      "url": ""
-    },
-    {
-      "name": "UK",
-      "url": ""
-    },
-    
     {
       "name": "UK",
       "url": ""
